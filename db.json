@@ -1,0 +1,95 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "fname": "Shree",
+      "lname": "Kolapkar",
+      "email": "sh@gmail.com",
+      "nmls": "90"
+    },
+    {
+      "id": 2,
+      "fname": "Prasadd",
+      "lname": "Kolapkar",
+      "email": "pk@gmail.com",
+      "nmls": "90"
+    },
+    {
+      "fname": "Sneha",
+      "lname": "SING",
+      "email": "sneha@gmail.com",
+      "nmls": 980,
+      "id": 11
+    },
+    {
+      "fname": "Bhavesh",
+      "lname": "Kasar",
+      "email": "bhavesh23@gmail.com",
+      "nmls": 99,
+      "id": 14
+    },
+    {
+      "fname": "Chaitali",
+      "lname": " Girnar",
+      "email": "chaitali@gmail.com",
+      "nmls": 89,
+      "id": 15
+    },
+    {
+      "fname": "Neha",
+      "lname": "Patil",
+      "email": "neh@gmail.com",
+      "nmls": 99,
+      "id": 16
+    },
+    {
+      "fname": "prachi",
+      "lname": "patil",
+      "email": "f@gmail.com",
+      "nmls": 66,
+      "id": 17
+    },
+    {
+      "fname": "ywrtt",
+      "lname": "tyuui",
+      "email": "FE@gmail.com",
+      "nmls": 1,
+      "id": 20
+    },
+    {
+      "fname": "Vishakha",
+      "lname": "Kolapkar",
+      "email": "vishakhakolapkar07@gmail.com",
+      "nmls": 33,
+      "id": 22
+    },
+    {
+      "fname": "Vishakha",
+      "lname": "Kolapkar",
+      "email": "vishakhakolapkar07@gmail.com",
+      "nmls": 1,
+      "id": 23
+    },
+    {
+      "fname": "jagruti",
+      "lname": "jag",
+      "email": "ja@gmail.com",
+      "nmls": 89,
+      "id": 26
+    },
+    {
+      "fname": "Krunali",
+      "lname": "chaudhari",
+      "email": "krunali@gmail.com",
+      "nmls": 34,
+      "id": 27
+    },
+    {
+      "fname": "pranita",
+      "lname": "kolpakr",
+      "email": "pr@gmail.com",
+      "nmls": 24,
+      "id": 28
+    }
+  ]
+}
